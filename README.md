@@ -2,8 +2,8 @@
 
 Projects in Cybersecurity 
 
-##Cyber Security 101
+## Cyber Security 101
 
-###Start Your Cyber Security Journey
+### Start Your Cyber Security Journey
 
-1.Offensive Security Intro
+1. Offensive Security Intro
