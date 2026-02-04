@@ -7,3 +7,4 @@ Projects in Cybersecurity
 ### Start Your Cyber Security Journey
 
 1. Offensive Security Intro
+2. Defensive Security Intro
