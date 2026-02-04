@@ -1,23 +1,23 @@
-#Offensive Security Intro
+# Offensive Security Intro
 
-##task 1
+## task 1
 
 Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?
 
-*Offensive Security
+* Offensive Security
 
-##task 2
+## task 2
 
-*start the VM
+* start the VM
 What is your bank account number in the FakeBank web application?
 
-*8881
+* 8881
 
-##task 3  --dirb--
+## task 3  --dirb--
 
-*open the terminal 
+* open the terminal 
 
-*write this :
+* write this :
 ```
 bash
 dirb http://fakebank.thm
@@ -25,15 +25,15 @@ dirb http://fakebank.thm
 
 Dirb should have found 2 hidden URLs. One of them is http://fakebank.thm/images. What is the other one?
 
-*http://fakebank.thm/bank-deposit
+* http://fakebank.thm/bank-deposit
 
-##task 4
+## task 4
 
-*write this http://fakebank.thm/bank-deposit in the url
+* write this http://fakebank.thm/bank-deposit in the url
 
-*put deposit to account : 8881
+* put deposit to account : 8881
 
-*put amount to deposit : 2000$
+* put amount to deposit : 2000$
 
 * return to your account
 
@@ -41,6 +41,6 @@ If your balance is now positive, a pop-up should appear with some green words in
 
 (You may need to hit Refresh if you closed the pop-up already)
 
-*BANK-HACKED
+* BANK-HACKED
 
-###end
+### end
