@@ -8,3 +8,4 @@ Projects in Cybersecurity
 
 1. Offensive Security Intro
 2. Defensive Security Intro
+3. Search Skills
