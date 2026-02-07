@@ -15,3 +15,10 @@ Projects in Cybersecurity
 1. Linux Fundamentals Part 1
 2. Linux Fundamentals Part 2
 3. Linux Fundamentals Part 3
+
+### Windows and AD Fundamentals
+
+1. Windows Fundamentals 1
+2. Windows Fundamentals 2
+3. Windows Fundamentals 3
+4. Active Directory Basics
