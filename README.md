@@ -22,3 +22,9 @@ Projects in Cybersecurity
 2. Windows Fundamentals 2
 3. Windows Fundamentals 3
 4. Active Directory Basics
+
+### OWASP Top 10 (2025)
+
+1. IAAA Failures
+2. Application Design Flaws
+3. Insecure Data Handling
